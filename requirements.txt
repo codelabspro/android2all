@@ -1,0 +1,8 @@
+cheroot==5.5.2
+CherryPy==10.2.2
+FormEncode==1.3.1
+Genshi==0.7
+portend==1.8
+pytz==2017.2
+six==1.10.0
+tempora==1.7
